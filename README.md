@@ -14,7 +14,7 @@
 ```C#
 transform.position;
 ```
-オブジェクトの場所
+***
 
 # Note
 Unityの機能をメモしておくや参考サイトのURLを記述する。
