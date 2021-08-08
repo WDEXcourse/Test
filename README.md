@@ -19,5 +19,4 @@ transform.position;
 ```
 ***
 
-### 例
-[google](https://www.google.com/?hl=ja)
+[googleを参考にした](https://www.google.com/?hl=ja)
