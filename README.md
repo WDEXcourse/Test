@@ -7,6 +7,8 @@
 コードの説明
 
 #例
+
+オブジェクトの場所
 ```C#
 transform.position;
 ```
