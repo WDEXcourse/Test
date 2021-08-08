@@ -6,5 +6,10 @@
 ```
 コードの説明
 
+#例
+```C#
+transform.position;
+```
+オブジェクトの場所
 
 # Note
