@@ -1,17 +1,6 @@
 # Test
 
-
-
-You can learn how to making cute physics simulations (looks retro game).
-
-![]()
-
-This animation is a "Cat playing on trampoline"!
-You can get basic skills for making physics simulations.
-
-# Features
-
-Physics_Sim_Py used [pyxel](https://github.com/kitao/pyxel) only.
+# 覚えたプログラム
 
 ```C#
 ここにコードを書く
